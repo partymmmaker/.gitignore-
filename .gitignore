@@ -1,0 +1,11 @@
+/node_modules
+
+///
+.env
+.env.produciton
+.env.development
+
+
+//
+/client/modules
+/clent/env
